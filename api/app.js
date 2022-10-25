@@ -71,7 +71,7 @@ const server = app.listen(
   )
 );
 
-//Handle unhandle promise rejectio
+//Handle unhandle promise rejection
 
 process.on("unhandledRejection", (err, promise) => {
   console.log(`Error: ${err.message}`.red.bold);
