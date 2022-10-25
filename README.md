@@ -54,6 +54,7 @@ An ecommerce application that allows people to buy clothes online
 **2. Now install all the required packages(frontend & backend) by running the following commands :-**
 
 ```
+cd api 
 npm install
 cd client
 npm install
