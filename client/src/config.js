@@ -1,5 +1,5 @@
 /**
- * Application wide configuration
+ * Application wid configuration
  */
 const config = {
   baseURI: process.env.REACT_APP_API_BASE_URL,
