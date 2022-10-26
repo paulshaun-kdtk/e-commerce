@@ -6,7 +6,7 @@ const advanceResults = (model, populate) => async (req, res, next) => {
 
   const reqQuery = { ...req.query };
 
-  //Feild to exclude
+  //Field to exclude
 
   const removeFeilds = ["select", "sort", "limit", "page"];
 
