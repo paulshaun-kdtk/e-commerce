@@ -1,4 +1,4 @@
-ipr * as orderConstants from '../Constants/orderConstants';
+ir * as orderConstants from '../Constants/orderConstants';
 
 export const createOrderReducer = (state = { order: {} }, action) => {
   switch (action.type) {
