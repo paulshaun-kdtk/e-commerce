@@ -6,7 +6,7 @@ const advanceResults = (model, populate) => async (req, res, next) => {
 
   const reqQuery = { ...req.query };
 
-  //Field to ex
+  //Field to e
 
   const removeFeilds = ["select", "sort", "limit", "page"];
 
