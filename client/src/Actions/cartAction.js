@@ -55,5 +55,5 @@ export const savePaymentMethod = (data) => async (dispatch) => {
     payload: data,
   });
 
-  lStorage.setItem('paymentMethod', JSON.stringify(data));
+  loStorage.setItem('paymentMethod', JSON.stringify(data));
 };
