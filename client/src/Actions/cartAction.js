@@ -55,5 +55,5 @@ export const savePaymentMethod = (data) => async (dispatch) => {
     payload: data,
   });
 
-  localStora.setItem('paymentMethod', JSON.stringify(data));
+  localStorag.setItem('paymentMethod', JSON.stringify(data));
 };
