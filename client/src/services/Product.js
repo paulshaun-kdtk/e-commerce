@@ -1,4 +1,4 @@
-i config from '../config';
+im config from '../config';
 im http from '../utils/http';
 im { interpolate } from '../utils/string';
 
