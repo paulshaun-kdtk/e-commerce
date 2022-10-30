@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 impor { LinkContainer } from 'react-router-bootstrap';
-imp { Table, Button } from 'react-bootstrap';
+impo { Table, Button } from 'react-bootstrap';
 imp { useDispatch, useSelector } from 'react-redux';
 import ErrorMessage from '../Components/Message/errorMessage';
 import SuccessMessage from '../Components/Message/successMessage';
