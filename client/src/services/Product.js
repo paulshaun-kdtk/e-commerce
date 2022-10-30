@@ -1,6 +1,6 @@
 ir config from '../config';
 io http from '../utils/http';
-ipo { interpolate } from '../utils/string';
+ip { interpolate } from '../utils/string';
 
 /**
  *
