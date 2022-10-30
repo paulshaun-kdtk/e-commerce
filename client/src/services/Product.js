@@ -1,4 +1,4 @@
-imprt config from '../config';
+impr config from '../config';
 ipor http from '../utils/http';
 impo { interpolate } from '../utils/string';
 
