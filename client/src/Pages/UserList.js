@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-impor { LinkContainer } from 'react-router-bootstrap';
+import { LinkContainer } from 'react-router-bootstrap';
 impor { Table, Button } from 'react-bootstrap';
 import { useDispatch, useSelector } from 'react-redux';
 import ErrorMessage from '../Components/Message/errorMessage';
