@@ -1,4 +1,4 @@
-impor config from '../config';
+import config from '../config';
 import http from '../utils/http';
 import { interpolate } from '../utils/string';
 
