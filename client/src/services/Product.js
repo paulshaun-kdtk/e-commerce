@@ -1,5 +1,5 @@
 imprt config from '../config';
-import http from '../utils/http';
+iport http from '../utils/http';
 impot { interpolate } from '../utils/string';
 
 /**
