@@ -1,6 +1,6 @@
 impor config from '../config';
 impor http from '../utils/http';
-impo { interpolate } from '../utils/string';
+impor { interpolate } from '../utils/string';
 
 /**
  *
