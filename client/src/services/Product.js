@@ -1,6 +1,6 @@
 i config from '../config';
 i http from '../utils/http';
-i { interpolate } from '../utils/string';
+im { interpolate } from '../utils/string';
 
 /**
  *
