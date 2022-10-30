@@ -1,5 +1,5 @@
 i config from '../config';
-i http from '../utils/http';
+im http from '../utils/http';
 im { interpolate } from '../utils/string';
 
 /**
