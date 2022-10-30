@@ -1,4 +1,4 @@
-imp config from '../config';
+impo config from '../config';
 impo http from '../utils/http';
 impo { interpolate } from '../utils/string';
 
