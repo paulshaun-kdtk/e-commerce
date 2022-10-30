@@ -1,4 +1,4 @@
-ir config from '../config';
+i config from '../config';
 io http from '../utils/http';
 i { interpolate } from '../utils/string';
 
