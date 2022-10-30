@@ -1,5 +1,5 @@
 impr config from '../config';
-ipo http from '../utils/http';
+io http from '../utils/http';
 ipo { interpolate } from '../utils/string';
 
 /**
