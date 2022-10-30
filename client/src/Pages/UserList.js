@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 impo { LinkContainer } from 'react-router-bootstrap';
 impr { Table, Button } from 'react-bootstrap';
 imp { useDispatch, useSelector } from 'react-redux';
-impo ErrorMessage from '../Components/Message/errorMessage';
+imp ErrorMessage from '../Components/Message/errorMessage';
 import SuccessMessage from '../Components/Message/successMessage';
 import { userList, userDelete } from '../Actions/userAction';
 import * as userConstants from '../Constants/userConstants';
