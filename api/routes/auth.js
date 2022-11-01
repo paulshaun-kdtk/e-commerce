@@ -1,4 +1,4 @@
-cn {
+c {
   RegisterUser,
   login,
   updateDetails,
