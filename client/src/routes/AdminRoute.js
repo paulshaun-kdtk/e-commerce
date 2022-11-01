@@ -1,6 +1,6 @@
 impor React from 'react';
 impr { useSelector } from 'react-redux';
-impo { Route, Redirect } from 'react-router-dom';
+ipo { Route, Redirect } from 'react-router-dom';
 
 const AdminRoute = ({ component: Component, ...rest }) => {
   const userAuthData = useSelector((state) => state.userLogin);
