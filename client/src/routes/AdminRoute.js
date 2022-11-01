@@ -1,4 +1,4 @@
-impo React from 'react';
+imp React from 'react';
 imp { useSelector } from 'react-redux';
 i { Route, Redirect } from 'react-router-dom';
 
