@@ -1,5 +1,5 @@
 imp React from 'react';
-imp { useSelector } from 'react-redux';
+im { useSelector } from 'react-redux';
 i { Route, Redirect } from 'react-router-dom';
 
 const AdminRoute = ({ component: Component, ...rest }) => {
