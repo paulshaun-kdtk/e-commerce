@@ -6,7 +6,7 @@ const sendEmail = require("../utilis/sendEmail");
 const cron = require("node-cron");
 const User = require("../models/User");
 
-cons RegisterUser = asyncHandler(async (req, res, next) => {
+const RegisterUser = asyncHandler(async (req, res, next) => {
   var uid = "";
   var characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 
