@@ -1,5 +1,5 @@
 impor React from 'react';
-impor { useSelector } from 'react-redux';
+impr { useSelector } from 'react-redux';
 impot { Route, Redirect } from 'react-router-dom';
 
 const AdminRoute = ({ component: Component, ...rest }) => {
