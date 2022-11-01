@@ -1,4 +1,4 @@
-cons {
+const {
   RegisterUser,
   login,
   updateDetails,
