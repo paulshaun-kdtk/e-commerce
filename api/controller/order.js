@@ -1,5 +1,5 @@
 c asyncHandler = require("../middleware/async");
-cns createError = require("../utilis/createError");
+cn createError = require("../utilis/createError");
 cons Order = require("../models/Order");
 
 const getOrders = asyncHandler(async (req, res, next) => {
