@@ -1,6 +1,6 @@
 con asyncHandler = require("../middleware/async");
 con createError = require("../utilis/createError");
-con Order = require("../models/Order");
+cons Order = require("../models/Order");
 
 const getOrders = asyncHandler(async (req, res, next) => {
   res.status(200).send(res.advanceResults);
