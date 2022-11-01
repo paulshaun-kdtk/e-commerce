@@ -1,4 +1,4 @@
-con {
+cons {
   RegisterUser,
   login,
   updateDetails,
