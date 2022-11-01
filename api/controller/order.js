@@ -1,4 +1,4 @@
-co asyncHandler = require("../middleware/async");
+con asyncHandler = require("../middleware/async");
 con createError = require("../utilis/createError");
 con Order = require("../models/Order");
 
