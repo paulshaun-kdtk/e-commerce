@@ -1,6 +1,6 @@
-i React from 'react';
+import React from 'react';
 i { useSelector } from 'react-redux';
-i { Route, Redirect } from 'react-router-dom';
+import { Route, Redirect } from 'react-router-dom';
 
 const AdminRoute = ({ component: Component, ...rest }) => {
   const userAuthData = useSelector((state) => state.userLogin);
