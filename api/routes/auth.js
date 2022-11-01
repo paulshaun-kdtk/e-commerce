@@ -1,4 +1,4 @@
-con {
+cn {
   RegisterUser,
   login,
   updateDetails,
