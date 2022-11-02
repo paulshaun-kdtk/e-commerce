@@ -1,5 +1,5 @@
 const asyncHandler = require("../middleware/async");
-con createError = require("../utilis/createError");
+cons createError = require("../utilis/createError");
 const path = require("path");
 const Product = require("../models/Product");
 const cloudinary = require("cloudinary").v2;
