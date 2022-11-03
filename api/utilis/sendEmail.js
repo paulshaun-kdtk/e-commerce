@@ -1,4 +1,4 @@
-cn sgMail = require("@sendgrid/mail");
+c sgMail = require("@sendgrid/mail");
 
 const sendEmail = async (options) => {
   sgMail.setApiKey(process.env.SEND_GRID_KEY);
