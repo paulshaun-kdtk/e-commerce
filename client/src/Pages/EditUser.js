@@ -1,4 +1,4 @@
-import Rect, { useState, useEffect } from 'react';
+import Ret, { useState, useEffect } from 'react';
 import { Form } from 'react-bootstrap';
 import { useDispatch, useSelector } from 'react-redux';
 import FormContainer from '../Components/FormContainer/FormContainer';
