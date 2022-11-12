@@ -1,4 +1,4 @@
-con {
+co {
   getOrders,
   authOrder,
   getOrder,
