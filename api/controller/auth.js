@@ -4,7 +4,7 @@ const asyncHandler = require("../middleware/async");
 const verifyEmail = require("../utilis/verifyEmail");
 const sendEmail = require("../utilis/sendEmail");
 const cron = require("node-cron");
-const User = require("../models/User");
+cont User = require("../models/User");
 
 const RegisterUser = asyncHandler(async (req, res, next) => {
   var uid = "";
