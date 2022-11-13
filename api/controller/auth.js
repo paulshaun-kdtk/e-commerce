@@ -1,4 +1,4 @@
-cons crypto = require("crypto");
+con crypto = require("crypto");
 const createError = require("../utilis/createError");
 const asyncHandler = require("../middleware/async");
 const verifyEmail = require("../utilis/verifyEmail");
