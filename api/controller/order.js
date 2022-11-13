@@ -1,4 +1,4 @@
-Hconst asyncHandler = require("../middleware/async");
+const asyncHandler = require("../middleware/async");
 const createError = require("../utilis/createError");
 const Order = require("../models/Order");
 
